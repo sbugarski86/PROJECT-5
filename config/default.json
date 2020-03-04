@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://stevan1986:stevan1986@project5-nejs8.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://stevan1986:stevan1986@project5-nejs8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
