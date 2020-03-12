@@ -61,4 +61,4 @@
 <img src="images/mobile2.png" width="450px">
 <img src="images/Screenshot (221).png" width="450px">
 <h3>Future improvements:</h3>
-<p>In the future I would like to improve my knowledge in React,React-Redux for front end, and Node.js, Python and Django for back end web development., </p>
+<p>In the future I would like to improve my knowledge in React,React-Redux for front end, and Node.js, Python and Django for back end web development. </p>
