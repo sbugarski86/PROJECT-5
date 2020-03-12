@@ -54,9 +54,9 @@
 	</ol>
 <h3>Results:</h3>
 <h4>Desktop views:</h4>
-<img src="images/desctop1.png" width="450px">
-<img src="images/desctop2.png" width="450px">
-<img src="images/desctop3.png" width="450px">
+<img src="images/desktop1.png" width="450px">
+<img src="images/desktop2.png" width="450px">
+<img src="images/desktop3.png" width="450px">
 <h4>Mobile views:</h4>
 <img src="images/mobile2.png" width="450px">
 <img src="images/Screenshot (221).png" width="450px">
