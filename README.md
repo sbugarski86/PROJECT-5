@@ -11,11 +11,7 @@
 	<li>Download the zip file of the project.</li>
 	<li>Unzip the file and save it.</li>
   <li>In config folder create default.json file with the folowing:
-  {
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "githubToken": ""
-}
+   <img src="images/Screenshot (226).png" width="450px">
   </li>
   <li>Login to MongoDB Atlas, create a new database . Set up database access and network access and copy the connection string</li>
   <li>You need github Id and github secret key which you can get from Github when you register your application. </li>
@@ -44,7 +40,7 @@
 	<li>Created react App.</li>
 	<li>Set up Redux.</li>
 	<li>Wrote front end code of the application.</li>
-  <li>Deployed application on Herocu<a href='https://still-thicket-35591.herokuapp.com/'>https://still-thicket-35591.herokuapp.com/</a>.</li>
+  <li>Deployed application on Herocu <a href='https://still-thicket-35591.herokuapp.com/'>https://still-thicket-35591.herokuapp.com/</a>.</li>
 	</ol>
 <ol><h3>Tehnologies used for this project:</h3>
 	<li>HTML,</li>
