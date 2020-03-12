@@ -11,7 +11,7 @@
 	<li>Download the zip file of the project.</li>
 	<li>Unzip the file and save it.</li>
   <li>In config folder create default.json file with the folowing:
-  <img src="images/Screenshot (226).png" width="650px">
+  <img src="images/Screenshot (226).png" width="1000px">
   <li>Login to MongoDB Atlas, create a new database . Set up database access and network access and copy the connection string</li>
   <li>You need github Id and github secret key which you can get from Github when you register your application. </li>
 	<li>Find the project in the terminal and type npm i.</li>
