@@ -12,7 +12,7 @@
 	<li>Unzip the file and save it.</li>
   <li>In config folder create default.json file with the folowing:
   {
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
+  "mongoURI": "your_mongoDB_Atlas_uri_with_credentials",
   "jwtSecret": "secret",
   "githubToken": ""
 }
