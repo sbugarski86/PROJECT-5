@@ -44,11 +44,11 @@
 	<li>Created react App.</li>
 	<li>Set up Redux.</li>
 	<li>Wrote front end code of the application.</li>
-  <li>Deployed application on Herocu<a href='https://still-thicket-35591.herokuapp.com/'>https://still-thicket-35591.herokuapp.com/</a>.</li>
+  <li>Deployed application on Herocu <a href='https://still-thicket-35591.herokuapp.com/'>https://still-thicket-35591.herokuapp.com/</a>.</li>
 	</ol>
 <ol><h3>Tehnologies used for this project:</h3>
 	<li>HTML,</li>
-	<li>CSS,,</li>
+	<li>CSS,</li>
 	<li>Git,</li>
 	<li>Node.js, JavaScrit, React</li>
 	</ol>
