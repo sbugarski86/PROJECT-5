@@ -24,7 +24,7 @@
 
 <h2>Requirements:</h2>
 <ol><h3>User Stories:<h3>
-  <li><em>As a junior web developer I want to be able to live posts when I get stuck with codding so that I can get a help from other developers.<em></li>
+  <li><em>As a junior web developer I want to be able to leave posts when I get stuck with coding so that I can get a help from other developers.<em></li>
 	<li><em>As a web developer I want to be in touch with other developers so that I can share my knowledge</em></li>
 	<h2>Wiraframes:</h2>
 	</ol>
